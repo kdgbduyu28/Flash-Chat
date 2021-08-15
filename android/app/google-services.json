@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193864825781",
+    "project_id": "flash-chat-e19e1",
+    "storage_bucket": "flash-chat-e19e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193864825781:android:73bac62020fa1c3bf977fc",
+        "android_client_info": {
+          "package_name": "com.TimothyBorja.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193864825781-t49vsltt544p3ts1lvkv2fu575sfjhc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83VuaqT1UGC9qLl2x8bNdjaWjW36ivTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193864825781-t49vsltt544p3ts1lvkv2fu575sfjhc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
